@@ -1,0 +1,8 @@
+
+project_id = "kjltywepybuznrmctglq"
+
+[functions]
+[functions.process-lab-report]
+verify_jwt = true
+[functions.upload-lab-report]
+verify_jwt = true
